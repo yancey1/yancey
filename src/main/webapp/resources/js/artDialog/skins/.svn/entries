@@ -1,0 +1,172 @@
+8
+
+dir
+7439
+svn://192.168.1.100/project/server/trunk/slh-lock-screen-cmp/webapp/resources/js/artDialog/skins
+svn://192.168.1.100/project
+
+
+
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+59c3661d-1c1c-4b4a-bfb1-4609a1675fe2
+
+simple.css
+file
+
+
+
+
+2015-10-30T03:06:36.508195Z
+23414e4767fc102e17bbc5112602554e
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+aero
+dir
+
+green.css
+file
+
+
+
+
+2015-10-30T03:06:36.527197Z
+1166cb9031fa7a780b629ba7c95ce734
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+blue
+dir
+
+twitter.css
+file
+
+
+
+
+2015-10-30T03:06:36.546198Z
+78f6ddd7e1bcf60b7deb15cb478fd090
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+opera.css
+file
+
+
+
+
+2015-10-30T03:06:36.565199Z
+9753ed06aaf2a3d48f60beb3bd45b00c
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+idialog.css
+file
+
+
+
+
+2015-10-30T03:06:36.584200Z
+1155e42520b0ff49a450e2a71013b2de
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+green
+dir
+
+black.css
+file
+
+
+
+
+2015-10-30T03:06:36.607201Z
+f261bf2ccc44af55e65a12c3eda3d53e
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+chrome.css
+file
+
+
+
+
+2015-10-30T03:06:36.633203Z
+f2a175510f681ab5c28ece895a44df5b
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+opera
+dir
+
+idialog
+dir
+
+icons
+dir
+
+default.css
+file
+
+
+
+
+2015-10-30T03:06:36.652204Z
+e1967d793364d45309c9196df7f8ba6f
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+black
+dir
+
+chrome
+dir
+
+aero.css
+file
+
+
+
+
+2015-10-30T03:06:36.670205Z
+ffb24ffafdaed4cb0d77218a2169cb8c
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+blue.css
+file
+
+
+
+
+2015-10-30T03:06:36.687206Z
+054fb22cd957ae6968edaecbaf698a12
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+

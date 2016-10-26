@@ -1,0 +1,52 @@
+8
+
+dir
+7439
+svn://192.168.1.100/project/server/trunk/slh-lock-screen-cmp/webapp/resources/js/ueditor/third-party/SyntaxHighlighter
+svn://192.168.1.100/project
+
+
+
+2015-09-23T10:12:36.556664Z
+4823
+wei.yan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+59c3661d-1c1c-4b4a-bfb1-4609a1675fe2
+
+shCoreDefault.css
+file
+
+
+
+
+2015-10-30T03:06:52.646119Z
+2fa6f41918cfdbb2b53cda9b3ce7cd49
+2015-09-23T10:12:36.556664Z
+4823
+wei.yan
+
+shCore.js
+file
+
+
+
+
+2015-10-30T03:06:52.663120Z
+b4f775128900e33fd2a7c12b46b41b96
+2015-09-23T10:12:36.556664Z
+4823
+wei.yan
+

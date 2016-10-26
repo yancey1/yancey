@@ -1,0 +1,46 @@
+8
+
+dir
+7439
+svn://192.168.1.100/project/server/trunk/slh-lock-screen-cmp/webapp/resources/css/login
+svn://192.168.1.100/project
+
+
+
+2015-10-16T06:38:19.716395Z
+5260
+xiaomin.huang
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+59c3661d-1c1c-4b4a-bfb1-4609a1675fe2
+
+login.css
+file
+
+
+
+
+2015-10-30T03:06:26.573627Z
+2cd29a47862e04accf5136eba91ce731
+2015-10-09T09:02:51.048542Z
+5065
+xiaomin.huang
+
+images
+dir
+
+img
+dir
+

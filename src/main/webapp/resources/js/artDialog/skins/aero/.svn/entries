@@ -1,0 +1,57 @@
+8
+
+dir
+7439
+svn://192.168.1.100/project/server/trunk/slh-lock-screen-cmp/webapp/resources/js/artDialog/skins/aero
+svn://192.168.1.100/project
+
+
+
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+59c3661d-1c1c-4b4a-bfb1-4609a1675fe2
+
+ie6
+dir
+
+aero_s.png
+file
+
+
+
+
+2015-10-30T03:06:32.411961Z
+7035a93bdc791536094c126232abae0e
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+has-props
+
+aero_s2.png
+file
+
+
+
+
+2015-10-30T03:06:32.432962Z
+89a5907a3cb1bebdce0aa272e684e3a7
+2015-09-13T04:21:26.013265Z
+4531
+wei.yan
+has-props
+

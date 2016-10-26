@@ -1,0 +1,41 @@
+8
+
+dir
+7439
+svn://192.168.1.100/project/server/trunk/slh-lock-screen-cmp/webapp/resources/js/ueditor/third-party/snapscreen
+svn://192.168.1.100/project
+
+
+
+2015-09-23T10:12:36.556664Z
+4823
+wei.yan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+59c3661d-1c1c-4b4a-bfb1-4609a1675fe2
+
+UEditorSnapscreen.exe
+file
+
+
+
+
+2015-10-30T03:06:51.527055Z
+e4d2dd20f706c7cbde2184f38b1de09f
+2015-09-23T10:12:36.556664Z
+4823
+wei.yan
+has-props
+
