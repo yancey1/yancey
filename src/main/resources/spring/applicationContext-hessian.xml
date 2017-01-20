@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+            http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+
+	<bean id="hessianClient" class="org.springframework.remoting.caucho.HessianProxyFactoryBean">  
+		<property name="overloadEnabled" value="true" />
+	    <property name="serviceUrl" value="http://114.55.238.89:8080/joseph-app/remote/testHessianService.htm"></property>  
+	    <property name="serviceInterface" value="com.yancey.manager.service.HessianService"></property>  
+	</bean> 
+	
+</beans>

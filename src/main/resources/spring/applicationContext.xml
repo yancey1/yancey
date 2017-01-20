@@ -108,16 +108,17 @@
 		<property name="securityManager" ref="securityManager" />
 	</bean>
 	<!-- ========================== shiro : End ========================== -->
-	
-    <!-- 系统日志AOP配置 -->
+
+	   <!-- 系统日志AOP配置 -->
 	<aop:aspectj-autoproxy/>   
+	
 	<bean id="logAspect" class="com.yancey.manager.aop.LogAspect">
-	    <property name="systemLogService" ref="systemLogService"/>
 	</bean>    
+	
 	<aop:config>  
         <aop:aspect ref="logAspect">  
-            <aop:pointcut id="logPointCut" expression="execution(* com.yancey.manager.service.impl.log.*.*(..))"/>  
-            <aop:around pointcut-ref="logPointCut" method="doSystemLog"/>  
+            <aop:pointcut id="logPointCut" expression="execution(* com.yancey.manager.service.impl.*.*(..))"/>  
+           <aop:before pointcut-ref="logPointCut" method="doSystemBefore"/>
         </aop:aspect>  
 	</aop:config>  	
 	
